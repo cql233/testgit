@@ -6,6 +6,6 @@ import lombok.Data;
  */
 @Data
 public class Father {
-    String n;
+    String as;
     String age;
 }
