@@ -6,7 +6,7 @@ import lombok.Data;
  */
 @Data
 public class Father {
-    String name222;
+    String bb;
     String as;
     String age;
 }
